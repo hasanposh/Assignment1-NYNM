@@ -142,3 +142,76 @@
 .div-2024{
   padding: 108px;
 }
+
+
+.shopping-paragraph{
+  color: rgba(7, 2, 17, 0.60);
+  width: 896px;
+  padding-bottom: 36px;
+}
+
+.child-div{
+  display: flex;
+}
+.grandson-div{
+  margin: 12px;
+  border-radius: 16px;
+  /* transition: 1s; */
+}
+/* .grandson-div:hover{
+  background-color: aliceblue;
+  transform:scale(1);
+
+} */
+
+.portfolio-paragraph{
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  padding-bottom: 16px;
+
+}
+
+.Portfolio-title{
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 700;
+  padding-bottom: 22px;
+}
+
+/* subscribe part */
+
+/* input[type="text"] {
+  width: 200px;
+  height: 20px;
+  padding-right: 50px;
+}
+
+input[type="submit"] {
+  margin-left: -50px;
+  height: 20px;
+  width: 50px;
+} */
+
+.sub-container{
+  max-width: 1320px;
+  margin: 50px auto;
+  border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+  border-radius: 16px;
+  height: 600px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+/* footer section */
+
+footer{
+  width: 100%;
+  height: 600px;
+  background: #070211;
+}
